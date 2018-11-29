@@ -1,5 +1,5 @@
-# hello_world
-just another repositary
-vishwajit rajbhar
-fycs
-rollno.1021
+hello_world
+this is vishwajit rajbhar
+fycs-b
+roll no:1021
+sfc
